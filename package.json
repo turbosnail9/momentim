@@ -1,0 +1,29 @@
+{
+  "name": "momentim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turbosnail9/momentim.git"
+  },
+  "author": "Ari Ramdial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turbosnail9/momentim/issues"
+  },
+  "homepage": "https://github.com/turbosnail9/momentim",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "ejs": "^1.0.0",
+    "express": "^4.10.4",
+    "gulp": "^3.8.10",
+    "nodemon": "^1.2.1"
+  },
+  "devDependencies": {
+    "gulp-less": "~1.3.6",
+    "gulp": "~3.8.9"
+  }
+}
